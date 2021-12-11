@@ -14,7 +14,7 @@
     $ php md5.php
 
 ## Screenshot
-<img src="img/bg.jpg.jpg">
+<img src="img/bg.jpg">
 
 ## Result
 <img src="img/result.jpg">
