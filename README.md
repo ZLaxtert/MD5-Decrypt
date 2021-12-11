@@ -1,5 +1,5 @@
 # MD5-Decrypt
-![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
+![PHP CLI](https://img.shields.io/badge/language-PHP-blue.svg)
 
 ## Install on desktop : 
 - Install XAMPP
