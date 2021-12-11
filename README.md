@@ -1,5 +1,5 @@
 # MD5-Decrypt
-PHP CLI
+[![PHP]
 ## Install on desktop : 
 - Install XAMPP
 - Added environment variable system path => C:\xampp\php
