@@ -1,5 +1,6 @@
 # MD5-Decrypt
-[![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
+[![PHP](https://img.shields.io/badge/language-PHP-blue.svg)]
+
 ## Install on desktop : 
 - Install XAMPP
 - Added environment variable system path => C:\xampp\php
