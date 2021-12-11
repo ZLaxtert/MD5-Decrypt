@@ -1,5 +1,6 @@
 # MD5-Decrypt
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
+![BANDITCODING](https://img.shields.io/badge/Team-Banditcoding-green)
 
 ## Install on desktop : 
 - Install XAMPP
