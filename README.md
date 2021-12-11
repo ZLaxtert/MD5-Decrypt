@@ -9,8 +9,8 @@ How to use on desktop:
 
 How to use on android (Termux) : 
 ## Install 
-  $ pkg install git
-  $ pkg install php
-  $ git clone https://github.com/Zlaxtert/MD5-Decrypt.git
-  $ cd MD5-Decrypt
-  $ php md5.php
+    $ pkg install git
+    $ pkg install php
+    $ git clone https://github.com/Zlaxtert/MD5-Decrypt.git
+    $ cd MD5-Decrypt
+    $ php md5.php
